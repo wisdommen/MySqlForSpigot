@@ -1,0 +1,20 @@
+# 数据库信息
+database:
+  username: root
+  password: password
+  host: localhost
+  port: 3306
+  name: minecraft
+  useUnicode: true
+  characterEncoding: utf8
+  useSSL: true
+
+# 连接池配置
+datasourse:
+  # 连接超时间隔（ms）
+  connectionTimeout: 2000
+  # 空闲超时（ms）
+  idleTimeout: 60000
+  # 最大连接数量
+  maximumPoolSize: 10
+

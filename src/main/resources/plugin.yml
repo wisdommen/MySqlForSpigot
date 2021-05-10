@@ -1,0 +1,5 @@
+name: MySqlForSpigot
+version: ${project.version}
+main: com.wisdomme.plugin.mysqlforspigot.MySqlForSpigot
+api-version: 1.13
+authors: [ wisdomme ]
